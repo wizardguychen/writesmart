@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Account, billing or privacy / 账号、付费、隐私
+    url: mailto:support@writesmart.top
+    about: Write to us privately — don't post account details in public issues. 请私下邮件联系，不要在公开 Issue 里贴账号信息。
+  - name: Try WriteAnytime / 试用
+    url: https://writesmart.top
+    about: The app itself. 应用本体。

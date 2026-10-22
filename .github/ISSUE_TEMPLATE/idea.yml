@@ -1,0 +1,19 @@
+name: Idea / 功能建议
+description: Something that would make writing your book easier. 能让你写书更顺手的想法。
+labels: [idea]
+body:
+  - type: textarea
+    id: story
+    attributes:
+      label: What are you trying to do? / 你想做成什么事？
+      description: Describe the moment in your writing where you needed it. 说说写作中哪个时刻需要它。
+    validations:
+      required: true
+  - type: textarea
+    id: today
+    attributes:
+      label: How do you handle it today? / 现在你怎么解决？
+  - type: textarea
+    id: wish
+    attributes:
+      label: What would good look like? / 理想的样子是什么？
