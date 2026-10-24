@@ -179,11 +179,11 @@ Your books are private to your account and stored on servers in Singapore. When 
 <!-- whats-new -->
 ## What's new
 
+- **On phones: a “Me” tab, four tabs at the bottom, and settings as a list** <sub>2026-10-24 · v0.1.43</sub>
 - **Writing on a phone: tools on top of the keyboard, saved state and words always in view** <sub>2026-10-24 · v0.1.42</sub>
 - **On phones, back closes menus before going up a level, and menus rise from the bottom** <sub>2026-10-24 · v0.1.41</sub>
 - **Link previews, and easier to find in search** <sub>2026-10-24 · v0.1.40</sub>
 - **Easier to tap and read on phones, and ready for the home screen** <sub>2026-10-24 · v0.1.38</sub>
-- **Phones get the “update the story bible” offer after a final draft** <sub>2026-10-24 · v0.1.37</sub>
 
 [Every update →](CHANGELOG.md)
 <!-- /whats-new -->

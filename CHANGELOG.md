@@ -8,6 +8,15 @@ This page covers writing, accounts and payments; the full record, privacy policy
 
 ## 2026-10-24
 
+### On phones: a “Me” tab, four tabs at the bottom, and settings as a list <sub>v0.1.43</sub>
+
+- On phones, Home, Ideas and Library have four tabs at the bottom: Home, Ideas, Library and Me. The top bar sits flat at the top with just the mark and the name.
+- “Me” holds what the avatar menu held: credits and getting more, membership, settings, feedback, inviting friends, language and look, signing out, and the release notes. Signed out, it is where you sign in or sign up and change language and look.
+- Settings on a phone start as a list (account, writing defaults, membership, credits…); each opens as a page of its own, and “‹ Settings” or back returns to the list. Credits, invites and the release notes start with “‹ Me”.
+- Menus and panels slide away when they close instead of vanishing; buttons and rows answer when pressed; a new page, or another tab in a book, fades in.
+- The email fields on sign-in and sign-up no longer capitalise the first letter or autocorrect.
+- The credits and invite pages no longer get widened by their background glow on phones, which made the whole page shrink.
+
 ### Writing on a phone: tools on top of the keyboard, saved state and words always in view <sub>v0.1.42</sub>
 
 - On a phone the formatting tools no longer take the top of the page: once you tap into the text and the keyboard comes up, a strip of tools sits on top of it (undo, bold, italic, highlight, scene break, AI continue, hide keyboard), the bottom tabs step aside, and the caret never hides behind the strip.
