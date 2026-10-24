@@ -176,6 +176,18 @@ The interface is in English and 中文. Stories are written in the language of y
 Your books are private to your account and stored on servers in Singapore. When an AI task runs, only the parts of your book it needs are sent to the model provider. Your writing is never sold or used to train models. See the <a href="https://writesmart.top/privacy">privacy policy</a>.
 </details>
 
+<!-- whats-new -->
+## What's new
+
+- **Writing on a phone: tools on top of the keyboard, saved state and words always in view** <sub>2026-10-24 · v0.1.42</sub>
+- **On phones, back closes menus before going up a level, and menus rise from the bottom** <sub>2026-10-24 · v0.1.41</sub>
+- **Link previews, and easier to find in search** <sub>2026-10-24 · v0.1.40</sub>
+- **Easier to tap and read on phones, and ready for the home screen** <sub>2026-10-24 · v0.1.38</sub>
+- **Phones get the “update the story bible” offer after a final draft** <sub>2026-10-24 · v0.1.37</sub>
+
+[Every update →](CHANGELOG.md)
+<!-- /whats-new -->
+
 ## Coming next
 
 - [ ] Share your story cards with friends
