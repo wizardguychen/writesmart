@@ -192,9 +192,10 @@ Your books are private to your account and stored on servers in Singapore. When 
 
 - [ ] Share your story cards with friends
 - [ ] Reminders for secrets the story set up and hasn't paid off
-- [ ] Sign in with Google or Apple
-- [ ] Buy credits by card or Alipay
-- [ ] Invite friends, earn credits
+- [ ] Sign in with Apple
+- [x] Sign in with Google
+- [x] Buy credits by card or Alipay
+- [x] Invite friends, earn credits
 
 Ideas are welcome — [open an issue](../../issues/new/choose).
 
