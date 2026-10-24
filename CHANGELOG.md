@@ -8,6 +8,14 @@ This page covers writing, accounts and payments; the full record, privacy policy
 
 ## 2026-10-24
 
+### A welcome email and getting-started tips: from one idea into your own world <sub>v0.1.44</sub>
+
+- New writers get a welcome email with three steps from an idea to chapter 1; then on days 1, 3 and 7, one tip for wherever they stopped (at most one a day, in their own daytime). Writers who wrote a chapter and have been away a while get a note that their world is still waiting.
+- If an email address is still not confirmed a day after sign-up, one reminder comes with a button that confirms it and signs you in.
+- After a first payment, a note says what arrived and how to make the most of it.
+- Settings has a new Email section: turn tips and product updates off separately; every email also has one-click unsubscribe. Account and payment emails still come.
+- These emails start going out soon; accounts made before then get no first-week emails, except one confirm-email reminder for unconfirmed accounts up to 30 days old.
+
 ### On phones: a “Me” tab, four tabs at the bottom, and settings as a list <sub>v0.1.43</sub>
 
 - On phones, Home, Ideas and Library have four tabs at the bottom: Home, Ideas, Library and Me. The top bar sits flat at the top with just the mark and the name.
